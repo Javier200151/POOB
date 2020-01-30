@@ -1,0 +1,37 @@
+#BlueJ class context
+comment0.target=CalcXook
+comment0.text=\r\n\ Calculadora\ en\ numeracion\ maya\ (resta,\ suma,\ division,\ \r\n\ multiplicacion\ y\ factorial)\r\n\r\n\ @author\ Javier\ Esteban\ L\u00F3pez\ Pe\u00F1a\r\n\ @version\ 1.0\ 01/29/2020\r\n
+comment1.params=
+comment1.target=CalcXook()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ CalcXook\r\n
+comment10.params=
+comment10.target=void\ Division()
+comment10.text=\r\n\ Realiza\ la\ division\ de\ el\ primer\ numero\ en\ la\ pila\r\n
+comment11.params=
+comment11.target=void\ Factorial()
+comment11.text=\r\n\ Realiza\ el\ factorial\ de\ el\ primer\ numero\ en\ la\ pila\r\n
+comment2.params=
+comment2.target=java.lang.Boolean\ modoEstudio()
+comment2.text=\r\n\ @return\ ModoEstudio\ booleano\ que\ dice\ si\ esta\ activado\ el\ modoEstudio\r\n
+comment3.params=
+comment3.target=void\ activarModoEstudio()
+comment3.text=\r\n\ Activa\ el\ modo\ estudio,\ conviertiendo\ en\ true\ ModoEstudio\r\n
+comment4.params=
+comment4.target=void\ desactivarModoEstudio()
+comment4.text=\r\n\ Desactiva\ el\ modo\ estudio,\ conviertiendo\ en\ false\ ModoEstudio\r\n
+comment5.params=number
+comment5.target=void\ addInteger(int)
+comment5.text=\r\n\ Entra\ un\ entero\ para\ pintarlo\ sobre\ el\ canvas\ y\ ponerlo\ en\ la\ pila\r\n\r\n\ @param\ number\ es\ un\ entero\ \ \r\n
+comment6.params=
+comment6.target=Xook\ popMaya()
+comment6.text=private\ void\ draw()\r\n\ \ \ \ \ \ \ \ {\ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ \ \ \ \ contHorizontal\=0;\r\n\ \ \ \ \ \ \ \ \ \ \ \ for\ (int\ i\=0\ ;\ i<stack.size()\ ;\ i++)\r\n\ \ \ \ \ \ \ \ \ \ \ \ {\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ stack.get(i).makeVisible();\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ stack.get(i).moveHorizontal(contHorizontal);\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ contHorizontal+\=100;\r\n\ \ \ \ \ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ public\ void\ erase()\r\n\ \ \ \ \ \ \ \ {\ \ \ \ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ \ \ \ \ for\ (int\ j\=stack.size()-1\ ;\ j>\=0\ ;\ j--)\r\n\ \ \ \ \ \ \ \ \ \ \ \ {\ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ System.out.println(j);\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ stack.get(j).makeInvisible();\r\n\ \ \ \ \ \ \ \ \ \ \ \ }\r\n}
+comment7.params=
+comment7.target=void\ Suma()
+comment7.text=\r\n\ Realiza\ la\ suma\ de\ el\ primer\ numero\ en\ la\ pila\r\n
+comment8.params=
+comment8.target=void\ Resta()
+comment8.text=\r\n\ Realiza\ la\ resta\ de\ el\ primer\ numero\ en\ la\ pila\r\n
+comment9.params=
+comment9.target=void\ Multiplicacion()
+comment9.text=\r\n\ Realiza\ la\ Multiplicacion\ de\ el\ primer\ numero\ en\ la\ pila\r\n
+numComments=12
