@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=MatrizTest
+comment0.text=\r\n\ The\ test\ class\ MatrizTest.\r\n\r\n\ @author\ \ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=MatrizTest()
+comment1.text=\r\n\ Default\ constructor\ for\ test\ class\ MatrizTest\r\n
+comment2.params=
+comment2.target=void\ sumaDeberiaCalcularseNumerosNegativos()
+comment3.params=
+comment3.target=void\ sumaDeberiaCalcularseNumerosCorrientes()
+comment4.params=
+comment4.target=void\ restaDeberiaCalcularseNumerosNegativos()
+comment5.params=
+comment5.target=void\ restaDeberiaCalcularseNumerosCorrientes()
+comment6.params=
+comment6.target=void\ matrizOpuestaDeberiaCalcularseNumerosCorrientes()
+comment7.params=
+comment7.target=void\ divisionDeberiaCalcularseNumerosCorrientes()
+numComments=8

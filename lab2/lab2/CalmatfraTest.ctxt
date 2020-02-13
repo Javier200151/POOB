@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=CalmatfraTest
+comment0.text=\r\n\ The\ test\ class\ CalmatfraTest.\r\n\r\n\ @author\ \ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=CalmatfraTest()
+comment1.text=\r\n\ Constructor\ de\ CalmatfraTest\r\n
+comment2.params=
+comment2.target=void\ consultaLaSumaDeberiaCalcularseNumerosNegativos()
+comment3.params=
+comment3.target=void\ consultaLaSumaDeberiaCalcularseNumerosCorrientes()
+comment4.params=
+comment4.target=void\ consultaLaRestaDeberiaCalcularseNumerosNegativos()
+comment5.params=
+comment5.target=void\ consultaLaRestaDeberiaCalcularseNumerosCorrientes()
+comment6.params=
+comment6.target=void\ consultaLaMatrizOpuestaDeberiaCalcularseNumerosCorrientes()
+comment7.params=
+comment7.target=void\ consultaLaDivisionDeberiaCalcularseNumerosCorrientes()
+numComments=8

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Calmatfra
+comment1.params=
+comment1.target=Calmatfra()
+comment1.text=\r\n\ Constructor\ de\ Calmatfra\r\n
+comment2.params=variable\ matriz
+comment2.target=void\ asigne(java.lang.String,\ int[][][])
+comment2.text=\r\n\ Crea\ una\ variable,\ la\ matriz\ para\ asignar\ y\ guardar\ numerador\ y\ denominador\r\n\ @param\ variable\ cadena\ para\ consultar\ la\ matriz\r\n\ @param\ matriz\ cubica\ donde\ guardar\ los\ fraccionarios\r\n
+comment3.params=respuesta\ operando1\ operacion\ operando2
+comment3.target=void\ opere(java.lang.String,\ java.lang.String,\ char,\ java.lang.String)
+comment3.text=\r\n\ Operador\ matrices\ (suma,\ resta,\ multiplicacion,\ divisi\u00F3n)\r\n\ @param\ respuesta\ cadena,\ llave\ de\ la\ matriz\ respuesta\r\n\ @param\ operando1\ cadena,\ llave\ de\ un\ operador\r\n\ @param\ operando2\ cadena,\ llave\ de\ un\ operador\r\n\ @param\ operacion\ char,\ caracter\ (+,-,*,~)\r\n\ Si\ es\ la\ MatrizOpuesta,\ operando2\ puede\ ser\ cualquier\ cadena\ sin\ tenerse\ en\ cuenta\r\n
+comment4.params=variable
+comment4.target=java.lang.String\ consulta(java.lang.String)
+comment4.text=\r\n\ consulta\ los\ fraccionarios\ de\ la\ matriz\ de\ la\ variable\r\n\ @param\ variable\ cadena,\ para\ llamar\ los\ fraccionarios\ de\ la\ matriz\r\n
+comment5.params=
+comment5.target=boolean\ ok()
+numComments=6
