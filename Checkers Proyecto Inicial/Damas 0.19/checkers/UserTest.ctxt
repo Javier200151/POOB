@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=UserTest
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ UserTest\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=UserTest()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ UserTest\r\n
+comment2.params=
+comment2.target=void\ gameSimulation()
+comment3.params=
+comment3.target=void\ mejorMovimiento()
+comment4.params=
+comment4.target=void\ testPriest()
+comment5.params=
+comment5.target=void\ testLibertarian()
+comment6.params=
+comment6.target=void\ testPowerful()
+comment7.params=
+comment7.target=void\ testProletarian()
+comment8.params=
+comment8.target=void\ testLazy()
+comment9.params=
+comment9.target=void\ testHurried()
+numComments=10

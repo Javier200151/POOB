@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Proletarian
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Proletarian\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=row\ column\ color\ xPos
+comment1.target=Proletarian(int,\ int,\ java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Proletarian\r\n\ @param\ row\ entero,\ x\ coordenada\r\n\ @param\ column\ entero,\ y\ coordenada\r\n\ @param\ color\ String,\ color\ a\ pintar\r\n\ @param\ xPos\ entero,\ distancia\ en\ x\ en\ la\ que\ se\ pintara\ sumada\ a\ row\r\n
+numComments=2
